@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "head.h"
 
-// Execute essa parte 
+// Projeto-Library 
 
 int main()
 {
